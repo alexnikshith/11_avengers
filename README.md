@@ -58,19 +58,4 @@ This project proposes a **Cloud-Fog hybrid architecture** for real-time healthca
 
 ---
 
-##  Repository Structure
-├── README.md                 # Project overview and documentation
-├── docs/                     # Project report, review PPTs, and related docs
-├── simulation/               # iFogSim simulation code/configs
-│   ├── Java/                 # Java code for iFogSim
-│   └── Python/               # Python prototype (WSM + MBAR demo)
-├── algorithms/               # WSM & MBAR implementations
-│   ├── wsm.py
-│   ├── mbar.py
-│   └── examples/
-├── results/                  # Simulation outputs and evaluation metrics
-│   ├── latency_results.csv
-│   ├── resource_utilization.csv
-│   └── comparison_charts/
-└── prototype/                # (Future work) Raspberry Pi / STM32 prototype code
 
